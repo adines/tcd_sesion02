@@ -29,3 +29,6 @@ apt-get -y install docker-ce docker-ce-cli containerd.io docker-buildx-plugin do
 
 # incluimos al usuario vagrant en el grupo docker para evitar el uso de sudo:
 usermod -aG docker vagrant
+
+
+
